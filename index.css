@@ -1,0 +1,17 @@
+#hero{
+    background: url('php/img/background.jpeg');
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(20%);
+}
+#service_title{
+    background: url('php/img/images/heading.png');
+    background-size: cover;
+    background-position: center;
+}
+
+main{
+    background: url('php/img/service_bg.webp');
+    background-size: cover;
+    background-position: center;
+}
